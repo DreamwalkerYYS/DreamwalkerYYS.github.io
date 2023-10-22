@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/archive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/nav/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/notes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
