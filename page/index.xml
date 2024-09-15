@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Dreamwalker‘s blog</title>
+    <link>https://dreamwalkeryys.github.io/page/</link>
+    <description>Recent content in Pages on Dreamwalker‘s blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dreamwalkeryys.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>https://dreamwalkeryys.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://dreamwalkeryys.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+      <description>&lt;p&gt;其实，也没什么好说的，我就是一个只会前端的高中生，这个站点算是我对我所学的东西进行复习与应用。&#xA;由于本人能力有限，文章中难免会存在一些谬误，如果各位大佬发现了，麻烦大家指正。&#xA;关于我为什么叫Dreamwalker emmm我就这么解释吧：由于某些原因，我希望我现在活在我的梦中，我希望我现在在梦游而非处于清醒的状态。至于是什么原因大家就不要刨根问底了🙃。&#xA;就说这么多了，打字好烦啊😨&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>https://dreamwalkeryys.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://dreamwalkeryys.github.io/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Friends</title>
+      <link>https://dreamwalkeryys.github.io/links/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://dreamwalkeryys.github.io/links/</guid>
+      <description>&lt;style&gt;&#xA;.article-header {&#xA;    display: none;&#xA;  }&#xA;.article-footer {&#xA;&#x9;display: none;&#xA;  }&#xA;&#xA;&lt;/style&gt;&#xA;&lt;p&gt;这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。&lt;/p&gt;&#xA;&lt;p&gt;友链头像放在&lt;code&gt;/assets/link-img&lt;/code&gt;，友链数据放在&lt;code&gt;/data/links.json&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://dreamwalkeryys.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dreamwalkeryys.github.io/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
